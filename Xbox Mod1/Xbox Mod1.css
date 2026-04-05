@@ -1,7 +1,7 @@
 
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://imgur.com/a/xzD7abg.png);
+    background: url(basemod.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -10,7 +10,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://imgur.com/a/d4HK8fE.png);
+    background: url(abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -55,7 +55,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(https://imgur.com/a/NSdcAai.png);
+    background: url(sticksmod.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
