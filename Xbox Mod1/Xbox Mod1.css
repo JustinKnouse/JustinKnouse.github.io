@@ -1,5 +1,8 @@
 
 /*BEGIN Xbox One Controller Styling*/
+body {
+    background: red !important;
+}
 .controller.xbox {
     background: url(basemod.png);
     height: 630px;
